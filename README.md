@@ -5,6 +5,8 @@
 =======
 - [Akismet](https://silentzconsulting.com/addons/akismet) by Erin Dalzell
   _Prevent spam in your form submissions_
+- [Array Get](https://github.com/LionsMouthDigital/Statamic-Array-Get) by LionsMouth Digital  
+  _Modifier to get values out of arrays_
 - [Bluebird](https://github.com/mc72/Bluebird-statamic-v2) by Nick Snyder and Mike Ciccone  
   _Pull down a predefined number of tweets from any Twitter user with publicly available tweets_
 - [Cache Manager](https://github.com/lesaff/statamic-cachemanager) by Rudy Affandi  
@@ -53,7 +55,7 @@
   _Command line backup manager for your Statamic sites that integrates with Asset storage containers._
 - [Mailchimp](https://github.com/edalzell/mailchimp) by Erin Dalzell  
   _Subscribes a registering user to a Mailchimp list_
-- [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi)
+- [Naxi](https://github.com/LionsMouthDigital/Statamic-Naxi) by LionsMouth Digital  
   _Geocodes addresses, will likely do more map stuff later…_
 - [Opening Hours](https://github.com/Marbles/statamic-opening-hours) by Marbles  
   _Set up and display the Opening Hours of a business_
